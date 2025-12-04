@@ -34,5 +34,7 @@ To decrypt, you subtract the same number you added.
 
 🎨 Why These Methods Are Simple:
 They do not require advanced math or cryptography.
+
 They work directly on pixel values.
+
 They can be easily reversed to restore the original image.
